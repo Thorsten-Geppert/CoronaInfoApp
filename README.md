@@ -1,7 +1,7 @@
 # CoronaInfoApp
 QML-App zum Anzeigen der aktuellen Corona-Werte in Deutschland (Spielwiese)
 
-Hier ein Screenshot:
+Hier ein Screenshot (Android):
 
 ![CoronaInfoApp-Screenshot](https://github.com/Thorsten-Geppert/CoronaInfoApp/blob/main/resources/images/Screenshot.png)
 
